@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Cơn Mưa Ngang Qua",
+    "singer": "Sơn Tùng MTP",
+    "path": "./assets/music/ConMuaNgangQua SonTungMTP 2782444.mp3",
+    "image": "./assets/img/MTP.png"
+  },
+  {
+    "name": "Come Back For You",
+    "singer": "Elephante",
+    "path": "./assets/music/Elephante  Come Back For You feat Matluck.mp3",
+    "image": "./assets/img/comBackForYou.png"
+  },
+  {
+    "name": "Kill Em With Kindness",
+    "singer": "Unknown",
+    "path": "./assets/music/Kill Em With Kindness  Remix   Nhạc Tik Tok Gây Nghiện.mp3",
+    "image": "./assets/img/KillEmWithKindness.png"
+  },
+  {
+    "name": "Temple",
+    "singer": "Liu Zerky",
+    "path": "./assets/music/Temple  Liu  Zerky  Nhạc Nền Cực Hot TikTok Trung Quốc Gây Nghiện  Douyin抖音.mp3",
+    "image": "./assets/img/Temple.png"
+  },
+  {
+    "name": "As Long As You Love Me - Remix",
+    "singer": "Justin Bieber",
+    "path": "./assets/music/As Long As You Love Me  Justin Bieber.mp3",
+    "image": "./assets/img/As_Long_As_You_Love_Me_(feat._Big_Sean)_-_Single.jpg"
+  }
+]
