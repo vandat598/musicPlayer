@@ -58,8 +58,8 @@ const app = {
         {
             name: 'Xích thêm chút - XTC remix',
             singer: 'Rapital, Groovie, Tling, MCK',
-            path: './assets/music/ Xích Thêm Chút  XTC Remix.mp3',
-            image: './assets/img/XTC.png',
+            path: 'https://zingmp3.vn/bai-hat/XTC-Xich-Them-Chut-Remix-Rapital-Groovie-tlinh-MCK/ZUI7WC8D.html',
+            image: './assets/img/Temple.png',
         },
         {
             name: 'As Long As You Love Me - Remix',

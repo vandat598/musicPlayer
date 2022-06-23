@@ -56,10 +56,10 @@ const app = {
             image: './assets/img/KillEmWithKindness.png',
         },
         {
-            name: 'Xích thêm chút - XTC remix',
-            singer: 'Rapital, Groovie, Tling, MCK',
-            path: './assets/music/ Xích Thêm Chút  XTC Remix.mp3',
-            image: './assets/img/XTC.png',
+            name: 'Temple',
+            singer: 'Liu Zerky',
+            path: './assets/music/Temple  Liu  Zerky  Nhạc Nền Cực Hot TikTok Trung Quốc Gây Nghiện  Douyin抖音.mp3',
+            image: './assets/img/Temple.png',
         },
         {
             name: 'As Long As You Love Me - Remix',
