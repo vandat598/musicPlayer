@@ -44,6 +44,24 @@ const app = {
             image: './assets/img/MTP.png',
         },
         {
+            name: 'Xích thêm chút - XTC remix',
+            singer: 'Rapital, Groovie, Tling, MCK',
+            path: './assets/music/Thiên Thần Tình Yêu.mp3',
+            image: './assets/img/thienThanTinhYeu.png',
+        },
+        {
+            name: 'Thiên thần tình yêu',
+            singer: 'Ricky Star, T.R.I',
+            path: './assets/music/ Xích Thêm Chút  XTC Remix.mp3',
+            image: './assets/img/XTC.png',
+        },
+        {
+            name: 'Vì mẹ anh bắt chia tay',
+            singer: 'karik, Miu Lê',
+            path: './assets/music/VÌ MẸ ANH BẮT CHIA TAY.mp3',
+            image: './assets/img/viMeAnhBatChiaTay.png',
+        },
+        {
             name: 'Come Back For You',
             singer: 'Elephante',
             path: './assets/music/Elephante  Come Back For You feat Matluck.mp3',
@@ -54,12 +72,6 @@ const app = {
             singer: 'Unknown',
             path: './assets/music/Kill Em With Kindness  Remix   Nhạc Tik Tok Gây Nghiện.mp3',
             image: './assets/img/KillEmWithKindness.png',
-        },
-        {
-            name: 'Xích thêm chút - XTC remix',
-            singer: 'Rapital, Groovie, Tling, MCK',
-            path: './assets/music/ Xích Thêm Chút  XTC Remix.mp3',
-            image: './assets/img/XTC.png',
         },
         {
             name: 'As Long As You Love Me - Remix',
